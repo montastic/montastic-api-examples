@@ -1,3 +1,5 @@
+[![Services Health](https://mon.montastic.io/badge)](https://mon.montastic.io)
+
 montastic-api-examples
 ======================
 
